@@ -17,7 +17,7 @@ Hi! I'm YUN . I used to be a CGI artist and got into programming for a few reaso
 
 ### Goals of June 2022 end 📋
 - [ ] Reading "A Mind for Numbers"
-- [ ] Study the core concepts of JS ( 1/21 )
+- [ ] Study the core concepts of JS ( 3/21 )
 
 ### Goals of 2022 end 📈
 - [ ]  English test score of 650 or above ( Sep )
