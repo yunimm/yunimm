@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 ### About me 👋
 Hi! I'm YUN . I used to be a CGI artist and got into programming for a few reasons.After finishing the online training camp, I will officially become a junior front-end engineer in late June 2022.
 
-### Goals of June 2022 end 📋
-- [ ] Reading "A Mind for Numbers"
-- [ ] Study the core concepts of JS ( 6/21 )
-
 ### Goals of 2022 end 📈
 - [ ]  English test score of 650 or above ( Sep )
 - [ ]  Completion of CS50 course
