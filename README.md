@@ -13,10 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 👋
-Hi! I'm YUN . I used to be a CGI artist and got into programming for a few reasons.After finishing the online training camp, I will officially become a junior front-end engineer in late June 2022.
-
-### Goals of 2022 end 📈
-- [ ]  English test score of 650 or above ( Sep )
-- [ ]  Completion of CS50 course
-- [ ]  Complete personal projects with React 
-- [ ]  Complete the 400-question leetcode
+Hi! I'm YUN . I used to be a CGI artist and got into programming for a few reasons.After finishing the online training camp, I will officially become a junior front-end engineer in late June 2022. My main development tools are: vite + Vue.js + Tailwind CSS, out of curiosity, I am learning React.js now 🥴
